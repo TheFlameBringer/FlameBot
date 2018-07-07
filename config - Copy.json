@@ -1,0 +1,34 @@
+{
+  "Discord" :
+    {
+      "token" : "token",
+      "server" : {
+        "Peoples Republic of Communism" : {
+          "joinChannel" : "welcome",
+          "joinMessage" : "Welcome to the Peoples Republic of Communism, <@{0}>! Make sure to listen to Despacito, while praising our Supreme Leaders!",
+          "removeMessage" : "**{0}** has left the server! What a despacito hater! No longer a comrade!",
+          "removeChannel" : "welcome"
+        },
+
+	"Communism" : {
+          "joinChannel" : "welcome",
+          "joinMessage" : "Welcome to the Soviet Union <@{0}>! You are now a comrade!",
+          "removeMessage" : "**{0}** has left the server! Traitor!",
+          "removeChannel" : "welcome"
+
+	"Despacito II" : {
+          "joinChannel" : "welcome",
+          "joinMessage" : "Welcome to Despacito II <@{0}>! Make sure to listen to Despacito!",
+          "removeMessage" : "**{0}** has left the server! What a Despacito Hater",
+          "removeChannel" : "welcome"
+
+	"Chemistry" : {
+          "joinChannel" : "welcome",
+          "joinMessage" : "Welcome to the Unofficial Chemistry Server! <@{0}>! Make sure to get on that Chemistry Grind!",
+          "removeMessage" : "**{0}** has left the server! They are no longer on the Chemistry Grind",
+          "removeChannel" : "welcome"
+        }
+      }
+    }
+}
+
